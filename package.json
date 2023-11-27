@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-worker-conditions",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.9.4"
+  }
+}
